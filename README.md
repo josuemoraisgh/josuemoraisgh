@@ -59,4 +59,7 @@ Meu trabalho conecta **fundamentos de controle e automação** com **software, d
 **Aberto a colaborações em pesquisa, projetos aplicados e orientação.**  
 Se quiser propor algo, envie objetivo + contexto + dados disponíveis.
 
+**"A vida é como andar de bicicleta. Para manter o equilíbrio, você precisa continuar se movimentando."**
+Albert Einstein
+
 </div>
