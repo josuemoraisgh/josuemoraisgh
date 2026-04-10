@@ -41,7 +41,7 @@ Meu trabalho conecta **fundamentos de controle e automação** com **software, d
 - **C/C++**
 - **SQL**
 - **JavaScript/TypeScript** (integrações, ferramentas e visualizações quando necessário)
-- **ESP32** (IoT e sistemas embarcados)
+- **ESP32/STM** (IoT e sistemas embarcados)
 - **Flutter** (apps multiplataforma)
 - **Qt** (interfaces e aplicações desktop/embarcadas)
 
