@@ -51,6 +51,7 @@ Meu trabalho conecta **fundamentos de controle e automação** com **software, d
 
 - Lattes: http://lattes.cnpq.br/2007658962904545  
 - FEELT/UFU: https://www.feelt.ufu.br/pessoas/docentes/josue-silva-de-morais
+
 Organizações:
     - ININDI: https://github.com/ININDI-UFU
     - ININDII: https://github.com/ININDII-UFU
