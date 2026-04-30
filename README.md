@@ -34,6 +34,16 @@ Meu trabalho conecta **fundamentos de controle e automação** com **software, d
 
 ---
 
+## Organizações:
+
+- ININDI: https://github.com/ININDI-UFU
+- ININDII: https://github.com/ININDII-UFU
+- IEAU: https://github.com/IECA-UFU
+- LASEC: https://github.com/LASEC-UFU
+- GEPT: https://github.com/GEPT-UDI
+
+---
+
 ## Linguagens & Ferramentas
 
 - **Python**
@@ -47,17 +57,11 @@ Meu trabalho conecta **fundamentos de controle e automação** com **software, d
 
 ---
 
-## Links
+## Outros Links
 
 - Lattes: http://lattes.cnpq.br/2007658962904545  
 - FEELT/UFU: https://www.feelt.ufu.br/pessoas/docentes/josue-silva-de-morais
 
-Organizações:
-    - ININDI: https://github.com/ININDI-UFU
-    - ININDII: https://github.com/ININDII-UFU
-    - IEAU: https://github.com/IECA-UFU
-    - LASEC: https://github.com/LASEC-UFU
-    - GEPT: https://github.com/GEPT-UDI
 ---
 
 <div align="center">
